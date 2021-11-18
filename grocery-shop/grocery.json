@@ -1,0 +1,89 @@
+
+{
+  
+    "grocery": [
+            {
+                "SerialNo" : "101",
+                "Name": "Orange",
+                "Quantity" : "500" ,
+                "Unit": "g",
+                "Department": "veggies",
+                "Notes":"Buy rippen"
+            },
+            {
+                "SerialNo" : "102",
+                "Name": "Rice",
+                "Quantity" : "2" ,
+                "Unit": "kg",
+                "Department": "grocery",
+                "Notes":"Ajmi ponni Rice"
+            },
+            {
+                "SerialNo" : "103",
+                "Name": "Milk",
+                "Quantity" : "2" ,
+                "Unit": "pkt",
+                "Department": "grocery",
+                "Notes":"Amul skimmed milk"
+            },
+            {
+                "SerialNo" : "104",
+                "Name": "Salt",
+                "Quantity" : "1" ,
+                "Unit": "kg",
+                "Department": "grocery",
+                "Notes":"Good quality"
+            },
+            {
+                "SerialNo" : "105",
+                "Name": "Chips",
+                "Quantity" : "2" ,
+                "Unit": "pkt",
+                "Department": "snacks",
+                "Notes":"Kerala chips"
+            },
+            {
+                "SerialNo" : "106",
+                "Name": "Flour",
+                "Quantity" : "1" ,
+                "Unit": "kg",
+                "Department": "grocery",
+                "Notes":"Wheat flour"
+            },
+            {
+                "SerialNo" : "107",
+                "Name": "Oil",
+                "Quantity" : "4" ,
+                "Unit": "kg",
+                "Department": "grocery",
+                "Notes":"Sunflower oil"
+            },
+            {
+                "SerialNo" : "108",
+                "Name": "Egg",
+                "Quantity" : "10" ,
+                "Unit": "No.s",
+                "Department": "grocery",
+                "Notes":"Duck eggs"
+            },
+            {
+                "SerialNo" : "109",
+                "Name": "Rotti",
+                "Quantity" : "1" ,
+                "Unit": "pkt",
+                "Department": "snacks",
+                "Notes":"Wheat Rotti"
+            },
+            {
+                "SerialNo" : "110",
+                "Name": "Banana",
+                "Quantity" : "1" ,
+                "Unit": "kg",
+                "Department": "fruits",
+                "Notes":"Red"
+            }
+    ]
+    
+    
+
+}

@@ -1,0 +1,29 @@
+th{
+    font-family:cursive;
+    color: rgb(240, 112, 112);
+   background: rgb(16, 17, 17);
+}
+tbody{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body{
+    background-image: url("./Images/new/groceries-e1554037962210.jpg");
+    background-size: cover; 
+}
+
+ /* #btn{
+     /* border: 5px solid red; 
+     margin-left: 20em;
+     margin-top:10em ;
+     font-family: 'Times New Roman', Times, serif;
+     font-size: xx-large;
+     color:orangered;
+     background: white;
+ } */
+
+ .table{
+     /* border: yellowgreen 2px solid; */
+    margin: 8%;
+    width: 80%;
+ }
+
